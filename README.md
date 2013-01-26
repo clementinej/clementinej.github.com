@@ -1,2 +1,2 @@
-github.com
+clementine.github.com
 ==========
