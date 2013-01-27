@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} Kendall Jacoby, Doing Stuff Since 1997 </title>
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <div id="main">
+    <header>
+      <h1> Kendall Jacoby, Doing Stuff Since 1997 </h1>
+    <header>
+    <nav role="navigation">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/portfolio/">Ideas</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+    {{ content }}
+    <footer>
+      <p>A website about the life and times of Kendall Jacoby. </p>
+    </footer>
+  </div>
+</body>
+</html>

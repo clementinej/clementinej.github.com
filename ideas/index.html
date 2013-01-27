@@ -1,0 +1,18 @@
+---
+layout: default
+title: Ideas
+---
+<section class="content">
+  <h2>Ideas</h2>
+  <p>Check out the ideas submitted below.</p>
+</section>
+<ul class="entries">
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">
+      <img src="{{ post.image }}" />
+      <h3>{{ post.title }}</h3>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
