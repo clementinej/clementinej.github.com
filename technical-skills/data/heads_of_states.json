@@ -1,0 +1,114 @@
+{
+    "countries": [
+        {
+            "country_code": "CU",
+            "skill": "Java",
+            "blob": "It still holds a soft spot in my heart. The majority of the software stack at Opower, where I interned in the fall of 2012, was a Spring/Java framework.",
+            "data": [
+                {
+                    "name": "Was my first programming language!",
+                    "date": "1980"
+                }
+            ]
+        },
+        {
+            "country_code": "JO",
+            "skill": "Javascript",
+            "blob": "I really like data visualization. So much so that I will make up data (as is the case here) just to play with d3.",
+            "data": [
+                {
+                    "name": "d3.js is just the classiest.",
+                    "date": "1952"
+                }
+            ]
+        },
+        {
+            "country_code": "KP",
+            "skill": "C++",
+            "blob": "",
+            "data": [
+                {
+                    "name": "Yay OOP!",
+                    "date": "1948"
+                }
+            ]
+        },
+        {
+            "country_code": "BN",
+            "skill": "C",
+            "blob": "Primarily from CS107 at Stanford University. Implemented a heap allocator in C that beats malloc.",
+            "data": [
+                {
+                    "name": "I love C; I will not be dissuaded.",
+                    "date": "1967"
+                }
+            ]
+        },
+        {
+            "country_code": "OM",
+            "skill": "Camtasia",
+            "blob": "Made a series of videos for training new Opower engineers using Camtasia.",
+            "data": [
+                {
+                    "name": "I'm really good at this one.",
+                    "date": "1970"
+                }
+            ]
+        },
+        {
+            "country_code": "LY",
+            "skill": "NLP",
+            "blob": "Implemented a dynamic heap allocator in C, trained a named entity tagger using CRFs, built a speech recognizer using open source software, implemented an HMM aligner for English-French translation based on the IBM model 1 using an EM Algorithm, trained a sentiment classifier, etc.",
+            "data": [
+                {
+                    "name": "See Sample Projects Below",
+                    "date": "1969"
+                }
+            ]
+        },
+        {
+            "country_code": "BH",
+            "skill": "Sentiment Analysis",
+            "blob": "But I worked on a very exciting Innovation Day project at Opower to do sentiment analysis on the utility companies that we provide data for. We used Sentiment 140, an existing sentiment analysis engine, and scraped the tweets for each of our companies, joining them all together in a really cool d3 visualization.",
+            "data": [
+                {
+                    "name": "Is probably doomed to failure.",
+                    "date": "1961"
+                }
+            ]
+        },
+        {
+            "country_code": "IR",
+            "skill": "Machine Learning",
+            "blob": "I worked on several machine learning projects in my NLP course at John's Hopkins, but I would say I have yet to prove myself in this field. I love it though, and love counts for something.",
+            "data": [
+                {
+                    "name": "Is my concentration at Stanford",
+                    "date": "1941"
+                }
+            ]
+        },
+        {
+            "country_code": "MA",
+            "skill": "HTML",
+            "blob": "HTML 5, however, is magical.",
+            "data": [
+                {
+                    "name": "Cannot be avoided.",
+                    "date": "1961"
+                }
+            ]
+        },
+        {
+            "country_code": "TG",
+            "skill": "CSS",
+            "blob": "But I can make it do what I need it to.",
+            "data": [
+                {
+                    "name": "I don't think anyone is really passionate about CSS.",
+                    "date": "1967"
+                }
+            ]
+        }
+    ]
+}
